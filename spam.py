@@ -18,13 +18,5 @@ while(count!=0):
 
 
 for i in range(0,len(write)):
-    pyautogui.typewrite(write[i]MEDIEVAL
-    TIMES
-    THEATER
-    -
-    NIGHT
-    beam
-    of
-    light
-    +'\n')
+    pyautogui.typewrite(write[i]+'\n')
     time.sleep(0.3)
