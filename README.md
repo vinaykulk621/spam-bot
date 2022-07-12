@@ -4,6 +4,7 @@
 
 Prerequisites:-
 *Python should be installed in your local machine
+
 *Text editor(vs-code)
 
 -----How to use-----
