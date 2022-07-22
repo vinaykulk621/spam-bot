@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-script=open(r'C:\Users\Kulka\OneDrive\Desktop\my_spam_bot\scriptt.txt')
+script=open(r'C:\Users\Kulka\OneDrive\Documents\GitHub\python\my_spam_bot\scriptt.txt')
 
 read_it=script.read()
 
